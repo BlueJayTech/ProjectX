@@ -1,13 +1,13 @@
 [
 {
   "id": "d033c156-5972-4767-ceb0-8a91a5c282db",
-  "name": "Project X",
+  "name": "Project Tracker",
   "description": "This is a project tracker board",
   "archived": false,
   "lists": [
   {
     "id": "4a62105f-6d1c-a84d-c7bc-5ee29a13afa3",
-    "name": "ToDo",
+    "name": "To Do",
     "headerColor": "#607d8b",
     "archived": false,
     "items": [
@@ -75,6 +75,25 @@
     {
       "id": "8d084b74-1e56-7b03-1c46-ebd5e15d6fc4",
       "text": "Project go live"
+    }]
+  },
+  {
+    "id": "4f654d15-fc58-0885-89a9-2ce1b64320bf5",
+    "name": "Wrap up",
+    "headerColor": "#607d8b",
+    "archived": false,
+    "items": [
+    {
+      "id": "2e855cd8-244d-9f18-3f9d-310b75ff1801",
+      "text": "Gather post project feedback"
+    },
+    {
+      "id": "5ca2a09d-62b9-39da-c0b0-510694cf6d13",
+      "text": "Analyze feedback and assess for any amends to internal processes"
+    },
+    {
+      "id": "fe8abdb4-41b6-b577-660c-ab4466bcea83",
+      "text": "Update internal processes"
     }]
   }]
 },
